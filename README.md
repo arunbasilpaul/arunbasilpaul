@@ -2,7 +2,7 @@
 ## Hi, I'm Arun 👋 #
 
 <div>
-  <img align="right" width="65%" src="https://github.com/arunbasilpaul/arunbasilpaul/assets/171144888/6dc783ef-7155-483e-95cf-f3b9197cc437">
+  <img align="right" width="50%" src="https://github.com/arunbasilpaul/arunbasilpaul/assets/171144888/6dc783ef-7155-483e-95cf-f3b9197cc437">
 </div>
 
 <div style="text-align: justify">
