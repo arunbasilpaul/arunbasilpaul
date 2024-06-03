@@ -1,6 +1,8 @@
 # printf( "WELCOME!!!" )
 ## Hi, I'm Arun 👋 #
 
+<img src="https://github.com/arunbasilpaul/arunbasilpaul/assets/171144888/d18594bf-2c44-435a-991a-6100edc02d96" width="1000" height="500"/>
+
 <div>
   <img align="left" width="50%" src="https://github.com/arunbasilpaul/arunbasilpaul/assets/171144888/6dc783ef-7155-483e-95cf-f3b9197cc437">
 </div>
