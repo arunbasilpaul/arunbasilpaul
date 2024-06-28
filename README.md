@@ -10,12 +10,13 @@
 
 # ABOUT ME👇
 <div style="text-align: justify">
-I'm a Mechatronics Graduate from Universität Siegen who is passionate about creating safety-critical embedded systems, saving and bettering lives accessible to everyone. I enjoy working with Vivado, Vitis, OS, Hardware acceleration, programming (Verilog, VHDL, C, C++, Python) and Machine Learning. I have completed projects funded by the Govt. of India to find a new approach to traditional painting using drones. In my time at Universität Siegen, I developed an interest to FPGAs and have focused in developing solutions for medical devices such as a hardware OS for the TE0802 Zynq Ultrascale+, custom IPs for Hardware acceleration, memory allocation pattern recognition and pre-fetching for the past ✌️ years and counting..... 
+I'm a Mechatronics Graduate from Universität Siegen who is passionate about creating safety-critical embedded systems, saving and bettering lives accessible to everyone. In my time at Universität Siegen, I developed an interest to FPGAs and have focused in developing solutions for medical devices such as a hardware OS for the TE0802 Zynq Ultrascale+, custom IPs for Hardware acceleration, memory allocation pattern recognition and pre-fetching for the past ✌️ years and counting..... 
 </div>
 
 # Intersted Topics and Softwares
 - Digital Signal Processing
-- Vivado & Vitis with HLS
+- Vivado
+- Vitis with HLS
 - OS
 - Machine Learning
 
@@ -26,7 +27,7 @@ I'm a Mechatronics Graduate from Universität Siegen who is passionate about cre
 - Optimizing deep learning model performance through the integartion of a Time-triggered memory cache with Versatile Tensor Accelerator
 - Development of custom Linux OS for custom boards (Case: TE0802 Ultrascale+ with  TVM/VTA interface)
 - DRAM Pattern analysis for VTA Load module schedule simplification
-- Wireless Aerial Painter
+- Wireless Aerial Painter - Funded by the Govt. of India
 - FPGA-based Neural Network implementation on TE0802 board using HLS and RTL programming 
 
 # MY HOBBIES:
