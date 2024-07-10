@@ -24,7 +24,7 @@ I'm a Mechatronics Graduate from Universität Siegen who is passionate about cre
 - VHDL, Verilog, Python, C, C++, Embedded C
 
 # Softwares
-- Vivado, Vitis, Vitis HLS, Pynq, PetaLinux, Jupyter Notebook
+- Vivado, Vitis, Vitis HLS, ModelSim, Pynq, PetaLinux, Jupyter Notebook
 
 # Projects
 - Optimizing deep learning model performance through the integartion of a Time-triggered memory cache with Versatile Tensor Accelerator
