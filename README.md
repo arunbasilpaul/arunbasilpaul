@@ -13,7 +13,7 @@
 I'm a Mechatronics Graduate from Universität Siegen who is passionate about creating safety-critical embedded systems, saving and bettering lives accessible to everyone. In my time at Universität Siegen, I developed an interest to FPGAs and have focused in developing solutions for medical devices such as a hardware OS for the TE0802 Zynq Ultrascale+, custom IPs for Hardware acceleration, memory allocation pattern recognition and pre-fetching for the past ✌️ years and counting..... 
 </div>
 
-# Intersted Topics
+# Interested Topics
 - RTL Programming with custom IP creation
 - Prefetching
 - Time-Triggreed systems
