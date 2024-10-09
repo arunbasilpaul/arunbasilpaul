@@ -13,20 +13,20 @@
 I'm a Mechatronics Graduate from Universität Siegen who is passionate about creating safety-critical embedded systems, saving and bettering lives accessible to everyone. In my time at Universität Siegen, I developed an interest to FPGAs and have focused in developing solutions for medical devices such as a hardware OS for the TE0802 Zynq Ultrascale+, custom IPs for Hardware acceleration, memory allocation pattern recognition and pre-fetching for the past ✌️ years and counting..... 
 </div>
 
-# Interested Topics
+# INTERESTED TOPICS
 - RTL Programming with custom IP creation
 - Prefetching
 - Time-Triggreed systems
 - Pynq-Linux OS creation
 - Machine Learning
 
-# Programming Languages
+# PROGRAMMING LANGUAGES
 - VHDL, Verilog, Python, C, C++, Embedded C
 
-# Softwares
+# SOFTWARES
 - Vivado, Vitis, Vitis HLS, ModelSim, Pynq, PetaLinux, Jupyter Notebook
 
-# Projects
+# PROJECTS
 - Optimizing deep learning model performance through the integartion of a Time-triggered memory cache with Versatile Tensor Accelerator
 - Development of custom Linux OS for custom boards (Case: TE0802 Ultrascale+ with  TVM/VTA interface)
 - DRAM Pattern analysis for VTA Load module schedule simplification
