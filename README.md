@@ -8,7 +8,7 @@
   <img align="left" width="40%" src="https://github.com/arunbasilpaul/arunbasilpaul/assets/171144888/c6eac76c-e712-44ca-88d9-ab6fe8fbe19c">
 </div>
 
-# ABOUT ME👇
+# ABOUT ME
 <div style="text-align: justify">
 I'm a Mechatronics Graduate from Universität Siegen who is passionate about creating safety-critical embedded systems, saving and bettering lives accessible to everyone. In my time at Universität Siegen, I developed an interest to FPGAs and have focused in developing solutions for medical devices such as a hardware OS for the TE0802 Zynq Ultrascale+, custom IPs for Hardware acceleration, memory allocation pattern recognition and pre-fetching for the past ✌️ years and counting..... 
 </div>
