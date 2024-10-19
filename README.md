@@ -4,11 +4,11 @@
   </a>
 </h1>
 
+# ABOUT ME
 <div>
-  <img align="left" width="30%" src="https://github.com/user-attachments/assets/f7a21fab-286b-40e5-8267-2bb7ba26c3f1">
+  <img align="left" width="40%" src="https://github.com/user-attachments/assets/f7a21fab-286b-40e5-8267-2bb7ba26c3f1">
 </div>
 
-# ABOUT ME
 <div style="text-align: justify">
 I'm a Mechatronics Graduate from Universität Siegen who is passionate about creating safety-critical embedded systems, saving and bettering lives accessible to everyone. In my time at Universität Siegen, I developed an interest to FPGAs and have focused in developing solutions for medical devices such as a hardware OS for the TE0802 Zynq Ultrascale+, custom IPs for Hardware acceleration, memory allocation pattern recognition and pre-fetching for the past ✌️ years and counting..... 
 </div>
