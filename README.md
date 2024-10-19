@@ -10,7 +10,7 @@
 </div>
 
 <div style="text-align: justify">
-I'm a Mechatronics Graduate from Universität Siegen who is passionate about creating safety-critical embedded systems, saving and bettering lives accessible to everyone. AFter completing my Bachelors in Mechanical Engineering from NMAMIT, I developed an interest to FPGAs during my Masters at the University of Siegen and have focused in developing solutions for medical devices such as a hardware OS for the TE0802 Zynq Ultrascale+, custom IPs for Hardware acceleration, memory allocation pattern recognition and pre-fetching for the past ✌️ years and counting..... 
+I'm a Mechatronics Graduate from Universität Siegen who is passionate about creating safety-critical embedded systems, saving and bettering lives accessible to everyone. AFter completing my Bachelors in Mechanical Engineering from NMAMIT (India), I developed an interest to FPGAs during my Masters at the University of Siegen (Deutschland) and have focused in developing solutions for medical devices such as a hardware OS for the TE0802 Zynq Ultrascale+, custom IPs for Hardware acceleration using VHDL and Verilog, memory allocation pattern recognition to save memory thereby reducing the load on small-medium sized FPGAs and pre-fetching fro faster memory access for the past ✌️ years and counting..... 
 </div>
 
 # INTERESTED TOPICS
