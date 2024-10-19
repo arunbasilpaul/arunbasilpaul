@@ -6,7 +6,7 @@
 
 # ABOUT ME
 <div>
-  <img align="left" width="35%" src="https://github.com/user-attachments/assets/f7a21fab-286b-40e5-8267-2bb7ba26c3f1">
+  <img align="left" width="30%" src="https://github.com/user-attachments/assets/f7a21fab-286b-40e5-8267-2bb7ba26c3f1">
 </div>
 
 <div style="text-align: justify">
