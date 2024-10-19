@@ -5,7 +5,7 @@
 </h1>
 
 <div>
-  <img align="left" width="40%" src="https://github.com/arunbasilpaul/arunbasilpaul/assets/171144888/c6eac76c-e712-44ca-88d9-ab6fe8fbe19c">
+  <img align="left" width="30%" src="https://github.com/user-attachments/assets/f7a21fab-286b-40e5-8267-2bb7ba26c3f1">
 </div>
 
 # ABOUT ME
