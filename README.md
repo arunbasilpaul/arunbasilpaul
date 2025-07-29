@@ -10,13 +10,13 @@
 </div>
 
 <div style="text-align: justify">
-I'm a Mechatronics Graduate from Universität Siegen who is passionate about creating safety-critical embedded systems, saving and bettering lives accessible to everyone. After completing my Bachelor in Mechanical Engineering from NMAMIT (India), I developed an interest in FPGAs during my Master's at the University of Siegen (Deutschland) and have focused on developing solutions for medical devices such as a hardware OS for the TE0802 Zynq Ultrascale+, custom IPs for Hardware acceleration using VHDL and Verilog, memory allocation pattern recognition to replicate faster memory retrieval; encouraging efficient memory usage, reducing the load on small-medium sized FPGAs and pre-fetching for speedier memory access for the past ✌️ years and counting..... 
+I'm a Mechatronics Graduate from Universität Siegen who is passionate about creating safety-critical embedded systems, saving and bettering lives accessible to everyone. After completing my Bachelor in Mechanical Engineering from NMAMIT (India), I developed an interest in FPGAs during my Master's at the University of Siegen (Deutschland) and have focused on developing solutions for medical devices such as a hardware OS for the TE0802 Zynq Ultrascale+, custom IPs for Hardware acceleration using VHDL and Verilog, memory allocation, pattern recognition to replicate faster memory retrieval; encouraging efficient memory usage, reducing the load on small-medium sized FPGAs and pre-fetching for speedier memory access for the past ✌️ years and counting..... 
 </div>
 
 # INTERESTED TOPICS
 - RTL Programming with custom IP creation
 - Prefetching
-- Time-Triggreed systems
+- Time-Triggered systems
 - Pynq-Linux OS creation
 - Machine Learning
 
@@ -27,7 +27,7 @@ I'm a Mechatronics Graduate from Universität Siegen who is passionate about cre
 - Vivado, Vitis, Vitis HLS, SDK, ModelSim, Pynq, PetaLinux, Jupyter Notebook, Visual Studio
 
 # PROJECTS
-- Optimizing deep learning model performance through the integartion of a Time-triggered memory cache with Versatile Tensor Accelerator
+- Optimising deep learning model performance through the integration of a Time-triggered memory cache with Versatile Tensor Accelerator
 - Development of custom Linux OS for custom boards (Case: TE0802 Ultrascale+ with  TVM/VTA interface)
 - DRAM Pattern analysis for VTA Load module schedule simplification
 - Wireless Aerial Painter - Funded by the Govt. of India
@@ -38,6 +38,7 @@ I'm a Mechatronics Graduate from Universität Siegen who is passionate about cre
   
 - Nature photography 🌲📷
 - Hiking 🥾⛺🚵🧗🏞️
+- Table Tennis 🏓
 - Reading productivity and philosophical books 📚
 </div>
 
