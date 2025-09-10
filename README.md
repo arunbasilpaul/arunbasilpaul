@@ -11,6 +11,10 @@ I'm a Mechatronics Graduate from Universität Siegen who is passionate about cre
   <img align="left" width="100%" src="https://github.com/user-attachments/assets/f7a21fab-286b-40e5-8267-2bb7ba26c3f1">
 </div>
 
+<div>
+  <img align="left" width="100%" src="https://github.com/user-attachments/assets/4a76ddea-cfce-4517-90c4-4f600add4dfb">
+</div>
+
 # INTERESTED TOPICS
 - RTL Programming with custom IP creation
 - Prefetching
